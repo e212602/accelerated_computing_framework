@@ -1,0 +1,127 @@
+{
+	"GPUS" : 
+	[
+		{
+			"current_clock_throttle_reasons" : 
+			[
+				{
+					"timestamp" : 1707608156609396,
+					"value" : 1
+				}
+			],
+			"ecc_dbe_volatile_total" : 
+			[
+				{
+					"timestamp" : 1707608156592904,
+					"value" : 0
+				}
+			],
+			"ecc_sbe_volatile_total" : 
+			[
+				{
+					"timestamp" : 1707608156635259,
+					"value" : 0
+				}
+			],
+			"gpuId" : 0,
+			"gpu_temp" : 
+			[
+				{
+					"timestamp" : 1707608156609119,
+					"value" : 46
+				}
+			],
+			"gpu_utilization" : 
+			[
+				{
+					"timestamp" : 1707608156565002,
+					"value" : 0
+				}
+			],
+			"memory_clock" : 
+			[
+				{
+					"timestamp" : 1707608156591140,
+					"value" : 405
+				}
+			],
+			"nvlink_data_crc_error_count_total" : 
+			[
+				{
+					"timestamp" : 1707608156635345,
+					"value" : 9223372036854775794
+				}
+			],
+			"nvlink_flit_crc_error_count_total" : 
+			[
+				{
+					"timestamp" : 1707608156635341,
+					"value" : 9223372036854775794
+				}
+			],
+			"nvlink_recovery_error_count_total" : 
+			[
+				{
+					"timestamp" : 1707608156635338,
+					"value" : 9223372036854775794
+				}
+			],
+			"nvlink_replay_error_count_total" : 
+			[
+				{
+					"timestamp" : 1707608156635336,
+					"value" : 9223372036854775794
+				}
+			],
+			"pcie_replay_counter" : 
+			[
+				{
+					"timestamp" : 1707608156591826,
+					"value" : 0
+				}
+			],
+			"power_usage" : 
+			[
+				{
+					"timestamp" : 1707608156591854,
+					"value" : 5.7489999999999997
+				}
+			],
+			"power_violation" : 
+			[
+				{
+					"timestamp" : 1707608156593033,
+					"value" : 0
+				}
+			],
+			"row_remap_failure" : 
+			[
+				{
+					"timestamp" : 1707608156635333,
+					"value" : 9223372036854775794
+				}
+			],
+			"row_remap_pending" : 
+			[
+				{
+					"timestamp" : 1707608156635330,
+					"value" : 9223372036854775794
+				}
+			],
+			"sm_clock" : 
+			[
+				{
+					"timestamp" : 1707608156563886,
+					"value" : 300
+				}
+			],
+			"thermal_violation" : 
+			[
+				{
+					"timestamp" : 1707608156592786,
+					"value" : 0
+				}
+			]
+		}
+	]
+}
